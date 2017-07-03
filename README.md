@@ -1,5 +1,6 @@
 # Picayune
-### A simple app to pledge donations based on Instagram usage
+
+A simple app that allows you to pledge donations based on your Instagram usage.
 
 This project with built upon Create React App (see below). An Express Server, isomorphic rendering, redux, and routing have been added to the app. Firebase is used for authentication and database.
 
